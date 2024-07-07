@@ -1,7 +1,7 @@
 export const urlFullPath = (page: string) => {
   let url = "";
   const basename = "http://localhost:3000/hw/store";
-  const bugID = "10";
+  const bugID = "";
 
   url += basename + page;
 
